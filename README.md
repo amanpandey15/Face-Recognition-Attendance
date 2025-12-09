@@ -53,7 +53,8 @@ README.md           # Project documentation
 ```
 
 ## Screenshots
-*![alt text](<Sample Screenshot 1-1.png>)*
+*<img width="515" height="462" alt="Sample Screenshot 1" src="https://github.com/user-attachments/assets/a621e258-af8b-44b9-8408-8482575c3d97" />
+*
 
 ## Author
 This project was developed for learning purposes, inspired by open-source face recognition projects, and enhanced with additional features.
